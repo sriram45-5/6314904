@@ -1,0 +1,6 @@
+com\cognizant\jwt\authservice\service\CustomUserDetailsService.class
+com\cognizant\jwt\authservice\model\AuthResponse.class
+com\cognizant\jwt\authservice\config\SecurityConfig.class
+com\cognizant\jwt\authservice\controller\AuthController.class
+com\cognizant\jwt\authservice\AuthserviceApplication.class
+com\cognizant\jwt\authservice\util\JwtUtil.class
