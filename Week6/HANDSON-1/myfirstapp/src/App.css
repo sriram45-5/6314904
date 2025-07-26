@@ -1,0 +1,17 @@
+/* App.css */
+
+.container{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f3f4f6; /* light gray */
+  padding: 24px;
+
+  /* Card-like appearance */
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: auto;
+}
